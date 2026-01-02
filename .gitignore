@@ -1,0 +1,13 @@
+# Compiled binary
+shell
+
+# Object files
+*.o
+*.out
+
+# Test files
+*.txt
+
+# Backup files
+*~
+*.swp
